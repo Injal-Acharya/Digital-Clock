@@ -40,18 +40,23 @@ html, body {
 .red {
     color:rgb(252, 0, 0);
 }
+
 .green {
     color:rgb(0, 255, 0);
 }
+
 .skyblue {
     color:rgb(0, 225, 255);
 }
+
 .purple {
     color:rgb(255, 0, 242);
 }
+
 .blue {
     color:rgb(0, 47, 255);
 }
+
 .orange {
     color:rgb(255, 136, 0);
 }
